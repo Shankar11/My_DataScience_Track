@@ -21,7 +21,7 @@ This repository is used for maintaining all the code related to the Springboard 
 - [Bayesian Inference](https://github.com/Shankar11/My_DataScience_Track/blob/master/Mini_Projects/Bayesian_stats/Bayesian_stats_Q6.28/inferential_statistics_3-Q.ipynb)
 
 **Machine Learning**
-- Linear Regression
+- [Linear Regression](https://github.com/Shankar11/My_DataScience_Track/blob/master/Mini_Projects/linear_regression/Mini_Project_Linear_Regression.ipynb)
 - [Logistic Regression](https://github.com/Shankar11/My_DataScience_Track/blob/master/Mini_Projects/logistic_regression/Mini_Project_Logistic_Regression.ipynb)
 - Naive Bayes
 - [Clustering](https://github.com/Shankar11/My_DataScience_Track/blob/master/Mini_Projects/clustering/Mini_Project_Clustering.ipynb)
