@@ -1,7 +1,7 @@
 # SpringBoard DSC
 This repository is used for maintaining all the code related to the Springboard DataScience Career Track
 
-## Capstone 1
+## Capstone 1 - Predict Future Sales
 **Problem**
 
 In this project we will work with a challenging time-series dataset consisting of daily sales data,
