@@ -2,6 +2,23 @@
 This repository is used for maintaining all the code related to the Springboard DataScience Career Track
 
 ## Capstone 1
+**Problem**
+
+In this project we will work with a challenging time-series dataset consisting of daily sales data,
+kindly provided by one of the largest Russian software firms - 1C Company.
+We have to predict total sales for every product and store in the next month.
+
+**Client** 
+
+Russian software firms - 1C Company
+
+**Data Set**
+
+We are provided with daily historical sales data. The task is to forecast the total amount of
+products sold in every shop for the test set. Note that the list of shops and products slightly
+changes every month. Creating a robust model that can handle such situations.
+
+
 
 
 ## Capstone 2
